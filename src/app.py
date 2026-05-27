@@ -77,6 +77,13 @@ activities = {
         "schedule": "Wednesdays, 3:30 PM - 5:30 PM",
         "max_participants": 20,
         "participants": ["noah@mergington.edu"]
+    },
+    # Community Service
+    "Community Service Club": {
+        "description": "Organize and participate in community service projects",
+        "schedule": "Fridays, 3:30 PM - 5:00 PM",
+        "max_participants": 25,
+        "participants": ["ava@mergington.edu"]
     }
 }
 
